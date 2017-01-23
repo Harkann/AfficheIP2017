@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="&amp;#38;#38;ns_ai;"
+   xmlns:i="&amp;#38;#38;#38;ns_ai;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -92,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -292,7 +292,7 @@
          id="tspan4209"
          x="16.826605"
          y="1039.6514"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.78620338px;font-family:Rockwell;-inkscape-font-specification:Rockwell">*pensez à sauvegarder vos données personelles avant</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.78620338px;font-family:Rockwell;-inkscape-font-specification:Rockwell">*pensez à sauvegarder vos données personnelles avant</tspan></text>
     <g
        id="g4583"
        transform="matrix(1.2221596,0,0,1.2221596,-604.60868,375.65858)"
